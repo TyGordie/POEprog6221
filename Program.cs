@@ -25,6 +25,7 @@ class CyberSecurityBot
 
             if (input == "exit")
             {
+                //Goodbye greeting 
                 Console.WriteLine($"\n[CyberSecurity Bot] Stay safe on the web {userName}, see you soon.");
                 break;
             }
